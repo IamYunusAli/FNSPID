@@ -1,0 +1,6 @@
+pandas
+matplotlib
+datetime
+textblob
+ta-lib
+pynance
