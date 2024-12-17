@@ -80,11 +80,17 @@ Publisher Analysis
 ├── notebooks
    ├──data/
         ├──raw_analyst_ratings.csv
-   ├── analysis.ipynb 
+        ├──AAPL_historical_data.csv
+         ......     
+   ├── analysis.ipynb
+   ├── Quantitative_analysis.ipynb
    ├── __init__.py
    └── README.md
 └── scripts
-  ├── __init__.py
+   ├── __init__.py
+   ├── loader.py
+   ├── plotter.py
+   ├── README.md
 └── src
   ├── __init__.py
 └── README.md
